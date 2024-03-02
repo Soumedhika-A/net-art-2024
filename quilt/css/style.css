@@ -1,0 +1,68 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+  }
+
+.quilt {
+    width: 100%;
+    min-height: 800px;
+}
+
+.box1 { 
+    background-color: brown;
+    width:30%;
+    height:10px;
+    float:left;
+}
+.box2 { 
+    background-color: green; 
+    width:70%;
+    height:20px;
+    float:right;
+}
+.box3 { 
+    background-color: blueviolet;
+    width:10%;
+    height:30px;
+    float:left;
+}
+.box4 { 
+    background-color: yellow; 
+    width:90%;
+    height:40px;
+    float:right;
+}
+.box5 { background-color: purple; 
+    width:50%;
+    height:50px;
+    float:left;
+}
+.box6 { background-color: cyan;
+    width:50%;
+    height:60px;
+    float:right; 
+}
+.box7 { 
+    background-color: black;
+    width:50%;
+    height:70px;
+    float:left; 
+}
+.box8 { 
+    background-color: orange; 
+    width:20%;
+    height:80px;
+    float:right;
+}
+.box9 { 
+    background-color: fuchsia;
+    width:80%;
+    height:90px;
+    float:left; 
+}
+.box10 { 
+    background-color: tomato;
+    width:100%;
+    height:100px;
+    float:left; 
+}
